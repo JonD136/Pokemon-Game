@@ -1,5 +1,5 @@
-Download this as a zip file
+1. Download this as a zip file
 <br>
-After downloading it as a zip file, extract it.
+2. After downloading it as a zip file, extract it.
 <br>
-In order to play the game you need to have unity and run "classwork.exe"
+3. In order to play the game you need to have unity and run "classwork.exe"
