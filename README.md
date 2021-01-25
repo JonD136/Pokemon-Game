@@ -1,3 +1,7 @@
+This is made on Unity.
+
+Run this on Windows.
+
 1. Download this as a zip file
 <br></br>
 2. After downloading it as a zip file, extract it.
